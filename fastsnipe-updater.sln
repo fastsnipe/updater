@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.36
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fastsnipe-updater", "fastsnipe-updater.vcxproj", "{6BE68EA4-373C-4DEA-AF27-08A2A4B8DB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE68EA4-373C-4DEA-AF27-08A2A4B8DB66}.Debug|x64.ActiveCfg = Debug|x64
+		{6BE68EA4-373C-4DEA-AF27-08A2A4B8DB66}.Debug|x64.Build.0 = Debug|x64
+		{6BE68EA4-373C-4DEA-AF27-08A2A4B8DB66}.Release|x64.ActiveCfg = Release|x64
+		{6BE68EA4-373C-4DEA-AF27-08A2A4B8DB66}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24442C1D-5CBF-410C-8AA6-B4E609FC3E93}
+	EndGlobalSection
+EndGlobal
